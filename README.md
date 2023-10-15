@@ -1,2 +1,81 @@
-# alx-frontend-for-fun
- A README.md file, at the root of the folder of the project, is mandatory Your code should use the PEP 8 style (version 1.7.*) All your files must be executable All your modules should be documented: python3 -c 'print(__import__("my_module").__doc__)' Your code should not be executed when imported (by using if __name__ == "__main__":)
+```shTask 0
+```
+
+## Test
+
+
+```sh
+Task 1
+```
+
+# My title
+## My title2
+# My title3
+#### My title4
+### My title5
+
+
+```sh
+Task 2
+```
+
+- Hello
+- Bye
+- 
+
+```sh
+Task 3
+```
+
+* Hello
+* Bye
+
+
+```sh
+Task 4
+```
+
+# My title
+- Hello
+- Bye
+
+Hello
+
+I'm a text
+with 2 lines
+
+
+```sh
+Task 5
+```
+
+# My title
+- He**l**lo
+- Bye
+
+Hello
+
+I'm **a** text
+with __2 lines__
+
+**Or in bold**
+
+
+```sh
+Task 6
+```
+
+# My title
+- He**l**lo
+- Bye
+
+Hello
+
+I'm **a** text
+with __2 lines__
+
+((I will live in Caracas))
+
+But it's [[private]]
+
+So cool!
